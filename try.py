@@ -1,2 +1,67 @@
 print("hello world")
-print("getgood")
+print("i just wanna say")
+"""I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust I love Faust 
+"""
