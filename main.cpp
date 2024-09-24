@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
-    cout << "Hello everynyan!" << endl;
+int meomeo() {
+  cout << "Hello everynyan!" << endl;
+  cout<< "hello motherfuck";
     return 0;
 }
